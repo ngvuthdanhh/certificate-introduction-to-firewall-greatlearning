@@ -1,4 +1,4 @@
-# 🛡️ Introduction to Firewall  
+# 🛡️ Introduction to Firewall - Great Learning
 
 ![Course](https://img.shields.io/badge/Firewall-Introduction-darkblue?style=flat-square&logo=linux) ![Status](https://img.shields.io/badge/Status-Completed-brightgreen?style=flat-square&logo=verizon) ![Type](https://img.shields.io/badge/Type-Learning%20Project-orange?style=flat-square&logo=notion) ![Focus](https://img.shields.io/badge/Focus-Network%20Security-informational?style=flat-square&logo=defender) ![Maintainer](https://img.shields.io/badge/Maintainer-Thành%20Danh-blueviolet?style=flat-square&logo=github)  
 
