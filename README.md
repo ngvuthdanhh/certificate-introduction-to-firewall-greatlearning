@@ -1,10 +1,6 @@
 # 🛡️ Introduction to Firewall  
 
-![Course](https://img.shields.io/badge/Firewall-Introduction-darkblue?style=flat-square&logo=linux)  
-![Status](https://img.shields.io/badge/Status-Completed-brightgreen?style=flat-square&logo=verizon)  
-![Type](https://img.shields.io/badge/Type-Learning%20Project-orange?style=flat-square&logo=notion)  
-![Focus](https://img.shields.io/badge/Focus-Network%20Security-informational?style=flat-square&logo=defender)  
-![Maintainer](https://img.shields.io/badge/Maintainer-Thành%20Danh-blueviolet?style=flat-square&logo=github)  
+![Course](https://img.shields.io/badge/Firewall-Introduction-darkblue?style=flat-square&logo=linux) ![Status](https://img.shields.io/badge/Status-Completed-brightgreen?style=flat-square&logo=verizon) ![Type](https://img.shields.io/badge/Type-Learning%20Project-orange?style=flat-square&logo=notion) ![Focus](https://img.shields.io/badge/Focus-Network%20Security-informational?style=flat-square&logo=defender) ![Maintainer](https://img.shields.io/badge/Maintainer-Thành%20Danh-blueviolet?style=flat-square&logo=github)  
 
 This repository contains **notes, labs, cheatsheets, case studies, and certificate of completion** for the *Introduction to Firewall* course.  
 The course provides a strong foundation in **firewall concepts, deployment, rule configuration, monitoring, and best practices**.  
